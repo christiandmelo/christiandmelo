@@ -44,6 +44,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christiandmelo&show_icons=true&locale=en" alt="christiandmelo" /></p>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64ca8d43c3203c87932781a3?variant=dark&roadmaps=backend)](https://roadmap.sh)
+
 <!--
 **christiandmelo/christiandmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
